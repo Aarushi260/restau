@@ -12,7 +12,7 @@ body{
     margin: 50px auto;
 }
 .contact-box{
-    background: #fff;
+    background: white;
     display: flex;
 }
 .contact-left{
